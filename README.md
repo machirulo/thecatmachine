@@ -29,3 +29,6 @@ Schematics:
 
 ![PUTE LE QUE LEE](https://github.com/machirulo/thecatmachine/blob/master/Images/Esquema-conexion.png?raw=true)
 
+
+/////////////P////////U///////////T/////////E//////////L//////E////////Q////////U///////E/////////L//////E/////E
+
