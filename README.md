@@ -24,3 +24,6 @@ You'll need a NODEMCU 1.0 (ESP8266) and optionally a ISD1820 Module and two Leds
 
 Usage: At first time, you have to connect to the Access Point created by the device, go to a browser and write "192.168.4.1", then scan the Wi-fi Networks, and save the SSID and Password, turn off the device and turn it on. Thats all.
 
+Schematics:  
+
+![PUTE LE QUE LEE](machirulo/thecatmachine/blob/master/Images/Esquema-conexion.png)
