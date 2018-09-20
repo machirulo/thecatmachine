@@ -1,4 +1,5 @@
-# thecatmachine
+# The Cat Machine
+![PUTE LE QUE LEE](https://github.com/machirulo/thecatmachine/blob/master/Images/20180904_232336.jpg?raw=true)
 The Cat Machine: Smart Iot Moderneishon Useless Device
 This is an experimental IoT device intended to show free available information from REST APIs that shows dollar/$ARS exchange, economic ratios, date, time and weather conditions.
 
