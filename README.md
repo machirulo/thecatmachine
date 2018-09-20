@@ -1,7 +1,7 @@
 # The Cat Machine: Smart Iot Moderneishon Useless Device
 ![PUTE LE QUE LEE](https://github.com/machirulo/thecatmachine/blob/master/Images/20180904_232336.jpg?raw=true)
 
-This is an experimental IoT device intended to show free available information from REST APIs that shows dollar/$ARS exchange, economic ratios, date, time and weather conditions.
+This is an experimental IoT device intended to show free available information from REST APIs that shows dollar/$ARS exchange, economic ratios (IPC, canasta basica, Inflación estimada promedio), date, time and local weather conditions.
 
 The purpose of this device is merelly experimental and recreational. There is no political intention behind it (btw, you can print just the case, or design another one).
 
