@@ -26,4 +26,5 @@ Usage: At first time, you have to connect to the Access Point created by the dev
 
 Schematics:  
 
-![PUTE LE QUE LEE](machirulo/thecatmachine/blob/master/Images/Esquema-conexion.png)
+![PUTE LE QUE LEE](https://github.com/machirulo/thecatmachine/blob/master/Images/Esquema-conexion.png?raw=true)
+
